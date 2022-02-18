@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Yellow/Desktop/study/cs5008/final/main.c
+stdio.h
+-
+medianTwoArray.c
+C:/Users/Yellow/Desktop/study/cs5008/final/medianTwoArray.c
+
+C:/Users/Yellow/Desktop/study/cs5008/final/medianTwoArray.c
+minmax.h
+-
+
